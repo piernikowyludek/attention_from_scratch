@@ -40,7 +40,6 @@ class SelfAttention(nn.Module):
     
 
 if __name__ == "__main__":
-    # Example usage
     batch_size = 2
     seq_length = 3
     embed_dim = 4
